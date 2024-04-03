@@ -1,4 +1,6 @@
 spring:
+  application:
+    name: contacts
   mvc:
     view:
       prefix: /WEB-INF/jsp/
