@@ -1,12 +1,13 @@
-package com.example.contacts;
+package com.pluralsight.springboot.tickets;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ContactsApplication {
+public class TicketsApplication {
+
 	public static void main(String[] args) {
-		SpringApplication.run(ContactsApplication.class, args);
+		SpringApplication.run(TicketsApplication.class, args);
 	}
 
 }
